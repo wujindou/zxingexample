@@ -1,0 +1,3 @@
+# zxingexample
+zxing识别条形码的例子
+使用Android简历的使用条形码识别的列子
